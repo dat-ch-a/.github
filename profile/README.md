@@ -83,7 +83,7 @@
 
 ### 다양한 거래 방식
 - **일반 판매**: 판매자 지정 가격으로 즉시 거래
-- **입찰 판매**: 1시간 경매를 통한 시장 가격 형성
+- **입찰 판매**: 당일 자정시까지의 경매를 통한 시장 가격 형성
 - **같은 통신사 거래**: 통신사별 호환성 보장
 
 ### 예상 거래 프로세스
@@ -187,7 +187,6 @@
 
 ### Infra
 - Docker
-- Redis
 - EC2
 - Load Balancer
 - Auto Scale
@@ -208,6 +207,10 @@
 - Grafana
 - Loki
 - OpenAI
+- Redis
+- Kafka
+- Elastic Search
+- Kibana
  
 ### Front-End
 - React
