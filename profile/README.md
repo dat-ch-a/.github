@@ -185,6 +185,50 @@
 
 ## 기술 스택
 
+### Infra
+- Docker
+- Redis
+- EC2
+- Load Balancer
+- Auto Scale
+- S3
+- RDS
+- Cloud Front
+- Route53
+- GitHub Actions
 
+### Back-End
+- Java
+- Spring Boot
+- Spring Data JPA
+- Spring Security
+- JWT Token
+- OAuth 2.0
+- QueryDSL
+- Grafana
+- Loki
+- OpenAI
+ 
+### Front-End
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+- Zustand
+- TanStack
+- Query
+
+### Tools
+- IntelliJ IDEA
+- Figma
+- Git
+- VS Code
+
+### Collaboration
+- GitHub 
+- Notion 
+- Discord 
+- Slack 
+- Jira
 
 ---
