@@ -218,8 +218,7 @@
 - Tailwind CSS
 - Vite
 - Zustand
-- TanStack
-- Query
+- TanStack Query
 
 ### Tools
 - IntelliJ IDEA
