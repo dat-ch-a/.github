@@ -6,28 +6,29 @@
 <img width="1902" height="1061" alt="image" src="https://github.com/user-attachments/assets/89e12bb7-ecfb-4c60-ba5a-da776f3161f7" />
 
 ## ✨ 팀원 소개
-<img width="1888" height="1042" alt="image" src="https://github.com/user-attachments/assets/eb954981-f0b2-4ea4-870d-0747bf598a59" />
+<img width="1813" height="717" alt="image" src="https://github.com/user-attachments/assets/85382c43-fe57-4787-85e7-07e8b17f792c" />
 
 ## ✨ 프로젝트 개요
-<img width="1788" height="962" alt="image" src="https://github.com/user-attachments/assets/f8600dd1-3506-49f0-85ba-fce15dd9f5a2" />
+<img width="1720" height="895" alt="image" src="https://github.com/user-attachments/assets/8f860a69-041f-4746-850b-c201de2f46cd" />
 
 ## ✨ 프로젝트 목표
-<img width="1873" height="1023" alt="image" src="https://github.com/user-attachments/assets/30f2c26f-1a69-4bf2-87c8-d0cdfea7e40e" />
+<img width="1629" height="571" alt="image" src="https://github.com/user-attachments/assets/78b73d1e-c34e-479e-96c2-0447185fb678" />
 
 ## ✨ 사이트 맵
-<img width="1901" height="1063" alt="image" src="https://github.com/user-attachments/assets/8917890e-d5b4-454d-a8d8-1effe7d3a956" />
+<img width="1824" height="882" alt="image" src="https://github.com/user-attachments/assets/c6c2e29c-ab5c-465e-a449-eb26d905bc43" />
 
 ## ✨ Back-End 기술스택
-<img width="1897" height="1056" alt="image" src="https://github.com/user-attachments/assets/d30fc147-63bc-4e95-9a15-91b919c64413" />
+<img width="1742" height="758" alt="image" src="https://github.com/user-attachments/assets/05a76af6-d812-4089-bcef-66f729ea0381" />
  
 ## ✨ Front-End 기술스택
-<img width="1889" height="1052" alt="image" src="https://github.com/user-attachments/assets/3ed2aeb2-f55f-4952-9b5a-4c5f8d117d6c" />
+<img width="1556" height="710" alt="image" src="https://github.com/user-attachments/assets/f5209692-1c1e-4c8d-9b95-88e56ee339e7" />
 
 ## ✨ Software 아키텍처
 <img width="1884" height="1047" alt="image" src="https://github.com/user-attachments/assets/adac260b-d4da-4946-9a67-6421d8eccd77" />
 
 ## ✨ ERD
-<img width="3210" height="1702" alt="FINAL_CAPSTONE" src="https://github.com/user-attachments/assets/273b4610-1c4c-441e-b130-484ad4d89776" />
+<img width="1702" height="881" alt="image" src="https://github.com/user-attachments/assets/a30c37fe-9a0c-4036-aef1-b3936e7133cc" />
+
 
 ## ✨ 개발일정
 <img width="1822" height="788" alt="image" src="https://github.com/user-attachments/assets/19ea86a8-6b08-46fd-afd5-a4b60e795507" />
