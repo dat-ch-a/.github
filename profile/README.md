@@ -52,7 +52,7 @@
 ## ✨ 프로젝트 시연 영상 (이미지 클릭시 유트브로 이동!)
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Kzm0acL3VCY">
-    <img src="https://github.com/user-attachments/assets/0d31536f-e482-44ea-a710-a42af0c21b5e" width="100%" />
+    <img width="1913" height="982" alt="image" src="https://github.com/user-attachments/assets/4bbad183-0fc3-486d-ad0b-b705c30d3fc8" />
   </a>
 </p>
 
