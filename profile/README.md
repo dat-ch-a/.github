@@ -2,7 +2,6 @@
 > LG U+ 유레카 부트캠프 최종 융합 프로젝트          
 > 프로젝트 기간 : 25.06.30 ~ 25.08.12   
 > 팀명 : 2심전심      
-> 
 
 <img width="1902" height="1061" alt="image" src="https://github.com/user-attachments/assets/89e12bb7-ecfb-4c60-ba5a-da776f3161f7" />
 
@@ -30,3 +29,19 @@
 ## ✨ ERD
 <img width="3210" height="1702" alt="FINAL_CAPSTONE" src="https://github.com/user-attachments/assets/273b4610-1c4c-441e-b130-484ad4d89776" />
 
+
+## ✨ 내부 시스템 재화 단위
+<img width="1620" height="521" alt="image" src="https://github.com/user-attachments/assets/e4183255-25c6-438d-b595-472b1bfedaa0" />
+
+## ✨ 시스템 주요 특징
+<img width="1253" height="796" alt="image" src="https://github.com/user-attachments/assets/113cddda-0324-4c65-b73c-c87c6fa8bcce" />
+
+## ✨판매자 시나리오
+<p align="center">
+  <img width="652" height="579" alt="image" src="https://github.com/user-attachments/assets/3f0ee3e2-6003-4bb7-9600-2222e2fd57fc" />
+</p>
+
+## ✨구매자 시나리오
+<p align="center">
+ <img width="659" height="582" alt="image" src="https://github.com/user-attachments/assets/c20e2a4e-3f05-4d67-9bc3-786015f04b95" />
+</p>
