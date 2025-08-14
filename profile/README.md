@@ -29,6 +29,9 @@
 ## ✨ ERD
 <img width="3210" height="1702" alt="FINAL_CAPSTONE" src="https://github.com/user-attachments/assets/273b4610-1c4c-441e-b130-484ad4d89776" />
 
+## ✨ 개발일정
+<img width="1822" height="788" alt="image" src="https://github.com/user-attachments/assets/19ea86a8-6b08-46fd-afd5-a4b60e795507" />
+
 
 ## ✨ 내부 시스템 재화 단위
 <img width="1620" height="521" alt="image" src="https://github.com/user-attachments/assets/e4183255-25c6-438d-b595-472b1bfedaa0" />
