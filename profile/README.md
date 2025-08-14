@@ -57,6 +57,7 @@
 </p>
 
 ## ✨ 프로젝트 관련 링크
-🔗 [Datcha 발표 자료](https://www.canva.com/design/DAGvRuLAC3U/UrP2-AKJ_S9pjLvHtFovXA/view?utm_content=DAGvRuLAC3U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd0365e9bac) </br>
-🔗 [Datcha 화면설계서](https://docs.google.com/presentation/d/1qJqEKtmuTgdHQEfbaQEp726DIXmVmvgGC1u6tPX_i7Q/edit?usp=sharing) </br>
 🔗 [2심전심 노션](https://sleet-emery-a6a.notion.site/2-2225cc39b823809bac27fe909edc5433?source=copy_link) </br>
+🔗 [Datcha 피그마](https://www.figma.com/design/uOdC1ZwphMsIq3XXCsRoBn/%EC%B5%9C%EC%A2%85-%EC%9C%B5%ED%95%A9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2%EC%A1%B0?) </br>
+🔗 [Datcha 화면설계서](https://docs.google.com/presentation/d/1qJqEKtmuTgdHQEfbaQEp726DIXmVmvgGC1u6tPX_i7Q/edit?usp=sharing) </br>
+🔗 [Datcha 발표 자료](https://www.canva.com/design/DAGvRuLAC3U/UrP2-AKJ_S9pjLvHtFovXA/view?utm_content=DAGvRuLAC3U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd0365e9bac) </br>
