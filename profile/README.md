@@ -50,7 +50,7 @@
  <img width="659" height="582" alt="image" src="https://github.com/user-attachments/assets/c20e2a4e-3f05-4d67-9bc3-786015f04b95" />
 </p>
 
-## ✨ 프로젝트 시연 영상 (이미지 클릭시 유트브로 이동!)
+## ✨ 프로젝트 시연 영상 (이미지 클릭시 유튜브로 이동!)
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Kzm0acL3VCY" target="_blank">
     <img width="1913" height="982" alt="image" src="https://github.com/user-attachments/assets/4bbad183-0fc3-486d-ad0b-b705c30d3fc8" />
