@@ -52,13 +52,13 @@
 
 ## ✨ 프로젝트 시연 영상 (이미지 클릭시 유트브로 이동!)
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Kzm0acL3VCY">
+  <a href="https://www.youtube.com/watch?v=Kzm0acL3VCY" target="_blank">
     <img width="1913" height="982" alt="image" src="https://github.com/user-attachments/assets/4bbad183-0fc3-486d-ad0b-b705c30d3fc8" />
   </a>
 </p>
 
 ## ✨ 프로젝트 관련 링크
-🔗 [2심전심 노션](https://sleet-emery-a6a.notion.site/2-2225cc39b823809bac27fe909edc5433?source=copy_link) </br>
-🔗 [Datcha 피그마](https://www.figma.com/design/uOdC1ZwphMsIq3XXCsRoBn/%EC%B5%9C%EC%A2%85-%EC%9C%B5%ED%95%A9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2%EC%A1%B0?) </br>
-🔗 [Datcha 화면설계서](https://docs.google.com/presentation/d/1qJqEKtmuTgdHQEfbaQEp726DIXmVmvgGC1u6tPX_i7Q/edit?usp=sharing) </br>
-🔗 [Datcha 발표 자료](https://www.canva.com/design/DAGvRuLAC3U/UrP2-AKJ_S9pjLvHtFovXA/view?utm_content=DAGvRuLAC3U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd0365e9bac) </br>
+🔗 <a href="https://sleet-emery-a6a.notion.site/2-2225cc39b823809bac27fe909edc5433?source=copy_link" target="_blank">2심전심 노션</a> </br>
+🔗 <a href="https://www.figma.com/design/uOdC1ZwphMsIq3XXCsRoBn/%EC%B5%9C%EC%A2%85-%EC%9C%B5%ED%95%A9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2%EC%A1%B0?" target="_blank">Datcha 피그마</a> </br>
+🔗 <a href="https://docs.google.com/presentation/d/1qJqEKtmuTgdHQEfbaQEp726DIXmVmvgGC1u6tPX_i7Q/edit?usp=sharing" target="_blank">Datcha 화면설계서</a> </br>
+🔗 <a href="https://www.canva.com/design/DAGvRuLAC3U/UrP2-AKJ_S9pjLvHtFovXA/view?utm_content=DAGvRuLAC3U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd0365e9bac" target="_blank">Datcha 발표 자료</a> </br>
